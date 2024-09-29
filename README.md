@@ -1,6 +1,8 @@
 # Reinforcement Learning for Games
 
-Welcome to the Reinforcement Learning repository! This repository contains implementations of several key reinforcement learning algorithms. Each algorithm is contained within its own directory and includes necessary code, instructions, and examples for running and understanding the algorithm.
+End of 1st year project at Télécom Paris in collaboration with Henri Besancenot, Axel Daboust and Iliass Khoutaibi.
+
+This repository contains implementations of several key reinforcement learning algorithms. Each algorithm is contained within its own directory and includes necessary code, instructions, and examples for running and understanding the algorithm.
 
 ## Table of Contents
 - [Q-Learning](#q-learning)
